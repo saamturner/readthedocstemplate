@@ -22,3 +22,4 @@ Contents
    api
 
 docs/source/index.rst
+Lumache has its documentation hosted on Read the Docs.
